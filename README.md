@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kimikokel
 - 👀 I’m interested in sleeping
-- 🌱 I’m currently learning rubbish C
-- 💞️ I’m looking to collaborate on cooking ;)
+- 🌱 I’m currently studying Computing
+- 💞️ I'm into Web and Game development
 - 📫 How to reach me: in your dreams
 
 <!---
