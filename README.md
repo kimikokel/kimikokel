@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kimikokel
+- 👋 Hi, I’m kel
 - 👀 I’m interested in sleeping
 - 🌱 I’m currently studying Computing
 - 💞️ I'm into Web and Game development
